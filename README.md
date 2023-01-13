@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alina Cai
 - 👀 I’m interested in SWE internships for summer 2023
 - 🌱 I’m currently a first-year computer science student at the University of Waterloo
-- 💞️ I’m looking to developing more front-end projects.
+- 💞️ I’m looking to develop more front-end projects.
 - 📫 How to reach me: alina.cai@uwaterloo.ca
 
 <!---
