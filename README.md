@@ -14,7 +14,7 @@ Reach me at alina.cai@uwaterloo.ca
 ![](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-[![](https://img.shields.io/badge/Terminal-Oh%20My%20Zsh-4EAA25?labelColor=111111&style=flat&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
-[![](https://img.shields.io/badge/Messaging-Discord-7289da?labelColor=111111&style=flat&logo=discord&logoColor=white)](https://discord.com)
-[![](https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![](https://img.shields.io/badge/-Terminal-Oh%20My%20Zsh-4EAA25?labelColor=111111&style=flat&logo=gnu-bash&logoColor=white)
+[![](https://img.shields.io/badge/-Discord-7289da?labelColor=111111&style=flat&logo=discord&logoColor=white)](https://discord.com)
+[![](https://img.shields.io/badge/-VS_Code-007ACC?labelColor=111111&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=latex&logoColor=green)
