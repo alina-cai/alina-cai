@@ -1,7 +1,6 @@
 ### Hi! I'm Alina, a first-year computer science student @ uWaterloo.
 
 Currently looking for SWE internships for summer 2023.
-Reach me at alina.cai@uwaterloo.ca
 
 ## Languages / Tools:
 
