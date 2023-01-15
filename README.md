@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Alina Cai
-- 👀 I’m interested in SWE internships for summer 2023
-- 🌱 I’m currently a first-year computer science student at the University of Waterloo
-- 💞️ I’m looking to develop more in-depth projects to learn about full-stack applications.
-- 📫 How to reach me: alina.cai@uwaterloo.ca
+### Hi! I'm Alina, a first-year computer science student @ uWaterloo.
 
-<!---
-alina-cai/alina-cai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently looking for SWE internships for summer 2023.
+Reach me at alina.cai@uwaterloo.ca
+
+## Languages / Tools:
+
+![](https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Python-000000?style=flat&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![](https://img.shields.io/badge/Terminal-Oh%20My%20Zsh-4EAA25?labelColor=111111&style=flat&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
+[![](https://img.shields.io/badge/Messaging-Discord-7289da?labelColor=111111&style=flat&logo=discord&logoColor=white)](https://discord.com)
+[![](https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
