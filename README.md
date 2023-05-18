@@ -1,6 +1,6 @@
-### Hi! I'm Alina, a first-year computer science student @ uWaterloo.
+### Hi! I'm Alina, a sophomore computer science student @ uWaterloo.
 
-Currently looking for SWE internships for summer 2023.
+Currently doing a machine learning internship @ BluWave-ai.
 
 ## Languages / Tools:
 
