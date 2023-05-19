@@ -2,6 +2,8 @@
 
 Currently doing a machine learning internship @ BluWave-ai.
 
+![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,5 +52,3 @@ Currently doing a machine learning internship @ BluWave-ai.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
