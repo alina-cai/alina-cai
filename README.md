@@ -51,3 +51,4 @@ Currently doing a machine learning internship @ BluWave-ai.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
