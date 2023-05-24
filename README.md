@@ -4,7 +4,7 @@ Currently doing a machine learning internship @ BluWave-ai.
 
 ![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
 
-Here are some technologies that I've worked with :>
+Here are some technologies that I've worked with:
 
 ### Languages
 
