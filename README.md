@@ -1,6 +1,6 @@
 ## Hi! I'm Alina, a sophomore computer science student @ uWaterloo.
 
-Currently doing a machine learning internship @ BluWave-ai.
+Currently doing a machine learning co-op @ BluWave-ai.
 
 ![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
 
