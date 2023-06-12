@@ -1,5 +1,7 @@
 ## Hi! I'm Alina, a sophomore computer science student @ uWaterloo.
 
+English | [中文](README_zh.md)
+
 Currently doing a machine learning co-op @ BluWave-ai. Add me on Discord! 
 
 ![](https://dcbadge.vercel.app/api/shield/644674332986966016)&emsp;&emsp;![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
