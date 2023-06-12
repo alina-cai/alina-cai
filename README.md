@@ -2,9 +2,9 @@
 
 Currently doing a machine learning co-op @ BluWave-ai. 
 
-Add me on Discord! ![](https://dcbadge.vercel.app/api/shield/644674332986966016)
+Add me on Discord! 
 
-![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
+![](https://dcbadge.vercel.app/api/shield/644674332986966016) ![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
 
 Here are some technologies that I've worked with:
 
