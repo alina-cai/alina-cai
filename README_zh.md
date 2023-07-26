@@ -2,9 +2,7 @@
 
 [English](README.md) | 中文
 
-目前是 BluWave-ai 的机器学习实习生。加一个 Discord 吧！
-
-![](https://dcbadge.vercel.app/api/shield/644674332986966016)&emsp;&emsp;![](https://komarev.com/ghpvc/?username=alina-cai&color=blueviolet&style=for-the-badge)
+目前是 BluWave-ai 的机器学习实习生。
 
 以下是我使用过的一些技术：
 
