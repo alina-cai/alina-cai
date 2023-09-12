@@ -2,7 +2,7 @@
 
 English | [中文](README_zh.md)
 
-Currently doing a machine learning co-op @ BluWave-ai.
+Just finished my first co-op term as a SWE doing machine learning @ BluWave-ai.
 
 Here are some technologies that I've worked with:
 
