@@ -2,7 +2,7 @@
 
 English | [中文](README_zh.md)
 
-Just finished my first co-op term as a SWE doing machine learning @ BluWave-ai.
+Just finished my first internship as a SWE doing machine learning @ BluWave-ai. Currently looking for SWE internship opportunities for Summer 2024!
 
 Here are some technologies that I've worked with:
 
