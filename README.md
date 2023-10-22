@@ -2,7 +2,7 @@
 
 English | [中文](README_zh.md)
 
-Incoming software engineering intern @ Microsoft! Previously @ BluWave-ai. Currently interested in SWE internship opportunities for Summer 2024!
+Incoming SWE intern @ Microsoft! Previously @ BluWave-ai. Currently interested in internship opportunities for Summer 2024!
 
 Here are some technologies that I've worked with:
 
