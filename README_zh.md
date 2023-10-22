@@ -2,7 +2,7 @@
 
 [English](README.md) | 中文
 
-目前是 BluWave-ai 的机器学习实习生。
+Microsoft 即将到来的 Software Engineering 实习生。之前在 BluWave-ai 工作过。目前对 2024 年夏季实习机会感兴趣！
 
 以下是我使用过的一些技术：
 
