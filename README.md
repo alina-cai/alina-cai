@@ -2,7 +2,7 @@
 
 English | [中文](README_zh.md)
 
-Currently SWE intern @ Microsoft working on Xbox! Previously @ BluWave-ai. Interested in internship opportunities for Summer/Fall 2024!
+Current SWE intern @ Microsoft working on Xbox. Incoming @ Uber this summer! Previous @ BluWave-ai.
 
 Here are some technologies that I've worked with:
 
