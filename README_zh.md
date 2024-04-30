@@ -4,7 +4,7 @@
 
 ### 工作经验:
 
-- SWE 实习生 @ **Uber** -> ML/NLP
+- SWE 实习生 @ **Uber** -> ML/AI
 - Engineering Fellow @ **8VC**
 - SWE 实习生 @ **Microsoft** -> Xbox Game Studios, Tools
 - SWE 实习生 @ **BluWave-ai** -> ML/AI
