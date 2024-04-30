@@ -4,12 +4,12 @@ English | [中文](README_zh.md)
 
 ### Work Experience:
 
-- SWE Intern @ **Uber** -> ML/NLP (Incoming)
+- SWE Intern @ **Uber** -> ML/AI (Incoming)
 - Engineering Fellow @ **8VC**
 - SWE Intern @ **Microsoft** -> Xbox Game Studios, Tools (Current)
 - SWE Intern @ **BluWave-ai** -> ML/AI
 
-I'm super interested in potential opportunities in artificial intelligence and quantitative finance. Please feel free to reach out!
+I'm interested in potential opportunities in artificial intelligence and quantitative finance. Please feel free to reach out!
 
 ### Skills:
 
