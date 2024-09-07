@@ -1,15 +1,11 @@
 ## Hi! I'm Alina, a sophomore computer science student @ uWaterloo.
 
-English | [中文](README_zh.md)
-
 ### Work Experience:
 
 - SWE Intern @ **Uber** -> ML/AI 
 - Engineering Fellow @ **8VC**
 - SWE Intern @ **Microsoft** -> Xbox Game Studios, Tools
 - SWE Intern @ **BluWave-ai** -> ML/AI
-
-I'm interested in potential opportunities in artificial intelligence and quantitative finance. Please feel free to reach out!
 
 ### Skills:
 
